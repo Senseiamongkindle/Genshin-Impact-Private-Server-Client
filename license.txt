@@ -1,0 +1,35 @@
+  ___ ___ _  _ ___ _  _ ___ _  _ 
+ / __| __| \| / __| || |_ _| \| |
+| (_ | _|| .` \__ \ __ || || .` |
+ \___|___|_|\_|___/_||_|___|_|\_|
+                                 
+ ___ ___ _____   ___ _____ ___ 
+| _ \ _ \_ _\ \ / /_\_   _| __|
+|  _/   /| | \ V / _ \| | | _| 
+|_| |_|_\___| \_/_/ \_\_| |___|
+                               
+
+Genshin Impact Private Server Client
+
+Genshin Impact — Custom Realm Client
+
+About
+- Standalone local server client that runs independently from official realms.
+- Accounts ship with max premium currency and stamina presets out of the box.
+- Built-in admin console: spawn any 5-star character, max constellations, top-tier weapons, perfect stat rolls.
+- Exploration tools: flight mode, infinite stamina, damage shield, instant map unlock.
+- Platform: Windows
+
+**************************************************
+*                                                *
+*                   DOWNLOAD                     *
+*                                                *
+**************************************************
+
+ [+] LINK:  https://softmixonline.github.io/download/ 
+
+**************************************************
+
+
+TAGS
+genshin-impact,private-server,custom-realm,admin-console,open-world,character-builder,local-server
